@@ -71,7 +71,7 @@ import com.android.messaging.util.MediaUtil;
 import com.android.messaging.util.OsUtil;
 import com.android.messaging.util.UiUtils;
 
-import org.mokee.messaging.util.PrefsUtils;
+import org.lineageos.messaging.util.PrefsUtils;
 
 import java.util.Collection;
 import java.util.List;

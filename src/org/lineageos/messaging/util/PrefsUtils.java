@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.mokee.messaging.util;
+package org.lineageos.messaging.util;
 
 import android.content.Context;
 import com.android.messaging.Factory;

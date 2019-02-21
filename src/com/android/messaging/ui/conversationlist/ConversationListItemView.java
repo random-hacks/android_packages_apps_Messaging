@@ -60,7 +60,7 @@ import com.android.messaging.util.Typefaces;
 import com.android.messaging.util.UiUtils;
 import com.android.messaging.util.UriUtil;
 
-import org.mokee.messaging.util.PrefsUtils;
+import org.lineageos.messaging.util.PrefsUtils;
 
 import java.util.List;
 
